@@ -14,10 +14,7 @@ January 2019
 
 ## State of the project
 
-Le bonus de l'exercice
-
-## Screenshots
-
+Done
 
 ## Author
 
